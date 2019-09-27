@@ -1,4 +1,4 @@
-Board Game
+# Board Game
 
 Four in a row.
 
