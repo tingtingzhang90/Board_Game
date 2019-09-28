@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ffbf9c1-8c7f-47ad-b3e1-c72ebedf07c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Board_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Board_Game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +113,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569593751616</updated>
-      <workItem from="1569593754684" duration="1007000" />
+      <workItem from="1569593754684" duration="12725000" />
+      <workItem from="1569658724767" duration="3115000" />
+      <workItem from="1569680219623" duration="2171000" />
     </task>
     <servers />
   </component>
@@ -124,13 +127,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Board_Game$Board_Game.coverage" NAME="Board_Game Coverage Results" MODIFIED="1569594467022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Board_Game$Board_Game.coverage" NAME="Board_Game Coverage Results" MODIFIED="1569682266607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
